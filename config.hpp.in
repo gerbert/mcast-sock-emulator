@@ -1,0 +1,9 @@
+#ifndef INCLUDE_CONFIG_HPP_
+#define INCLUDE_CONFIG_HPP_
+
+#define APP_NAME                "@APP_NAME@"
+#define APP_VERSION_MAJOR       @APP_VERSION_MAJOR@
+#define APP_VERSION_MINOR       @APP_VERSION_MINOR@
+#define APP_VERSION_REVISION    "@GIT_COMMIT_HASH@"
+
+#endif /* INCLUDE_CONFIG_HPP_ */
